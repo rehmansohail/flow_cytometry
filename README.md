@@ -21,8 +21,7 @@ A barplot of WCSS will be displayed to assist in choosing an optimal k value.
 After k=4 the WCSS does not change much so we choose k=4 as the number of clusters
 
 ### 2D Scatter Plots
-Two 2D scatter plots are generated: 
-These scatter plots illustrate the relationships between fluorescence channels. 
+Two 2D scatter plots are generated. These scatter plots illustrate the relationships between fluorescence channels. 
 (Data points are colored by cluster assignment)
 
 - FL2.H vs FL3.H:
