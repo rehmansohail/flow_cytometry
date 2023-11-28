@@ -18,9 +18,12 @@ A barplot of WCSS will be displayed to assist in choosing an optimal k value.
 
 ![31](https://github.com/rehmansohail/spider_detection_model/assets/83837284/0c1a2efe-f886-47b0-af08-7dbf78c54919)
 
+After k=4 the WCSS does not change much so we choose k=4 as the number of clusters
+
 ### 2D Scatter Plots
-Two 2D scatter plots are generated:
-These scatter plots illustrate the relationships between fluorescence channels.
+Two 2D scatter plots are generated: 
+These scatter plots illustrate the relationships between fluorescence channels. 
+(Data points are colored by cluster assignment)
 
 - FL2.H vs FL3.H:
 
@@ -29,7 +32,5 @@ These scatter plots illustrate the relationships between fluorescence channels.
 - FL3.H vs FL4.H:
 
 ![33](https://github.com/rehmansohail/spider_detection_model/assets/83837284/55e20c5d-6b45-4c60-8596-40356fb25f41)
-
-Data points are colored by cluster assignment.
 
 We can conclude that there are 4 different subpopulations of cells present in our data
