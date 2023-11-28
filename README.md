@@ -11,14 +11,14 @@ Make sure you have the following installed:
 - Rstudio
 - Required R packages: `stats`
 
-##Results
+## Results
 
-###Barplot of Within Cluster Sum of Squares (WCSS)
+### Barplot of Within Cluster Sum of Squares (WCSS)
 A barplot of WCSS will be displayed to assist in choosing an optimal k value.
 
 ![31](https://github.com/rehmansohail/spider_detection_model/assets/83837284/0c1a2efe-f886-47b0-af08-7dbf78c54919)
 
-###2D Scatter Plots
+### 2D Scatter Plots
 Two 2D scatter plots are generated:
 These scatter plots illustrate the relationships between fluorescence channels.
 
